@@ -33699,13 +33699,15 @@
 			"questIDLow:4": 1749,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "3f73bdc4-9b7f-409d-875c-c90e84c3513d"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								1,
 								1,
-								0
+								1
 							],
 							"uuid:8": "3f73bdc4-9b7f-409d-875c-c90e84c3513d"
 						}
@@ -46286,14 +46288,16 @@
 			"questIDLow:4": 1758,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "3f73bdc4-9b7f-409d-875c-c90e84c3513d"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								1,
 								1,
 								6,
-								0
+								1
 							],
 							"uuid:8": "3f73bdc4-9b7f-409d-875c-c90e84c3513d"
 						}
