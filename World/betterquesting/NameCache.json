@@ -1,0 +1,29 @@
+{
+	"nameCache:9": {
+		"0:10": {
+			"name:8": "alphaMrWave",
+			"isOP:1": 1,
+			"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
+		},
+		"1:10": {
+			"name:8": "alphaMrWave",
+			"isOP:1": 1,
+			"uuid:8": "1c3291d7-759b-319d-ab5a-245cfdc202c1"
+		},
+		"2:10": {
+			"name:8": "panama0braz",
+			"isOP:1": 1,
+			"uuid:8": "5a71afae-160c-38ea-a990-deac83e26fbf"
+		},
+		"3:10": {
+			"name:8": "panama0braz",
+			"isOP:1": 0,
+			"uuid:8": "3f73bdc4-9b7f-409d-875c-c90e84c3513d"
+		},
+		"4:10": {
+			"name:8": "AV1r",
+			"isOP:1": 1,
+			"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
+		}
+	}
+}
