@@ -70087,7 +70087,13 @@
 		},
 		"3411:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa",
+					"timestamp:4": 1741185046103
+				}
+			},
 			"questIDLow:4": 2215,
 			"tasks:9": {
 				"0:10": {
