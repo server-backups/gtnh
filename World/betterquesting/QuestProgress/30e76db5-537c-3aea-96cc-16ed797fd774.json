@@ -22922,11 +22922,13 @@
 			"questIDLow:4": 3215,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								16
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
 						}
@@ -32598,7 +32600,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774",
-							"value:3": 141
+							"value:3": 142
 						}
 					},
 					"index:3": 0,
@@ -41971,13 +41973,7 @@
 		},
 		"2047:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {
-				"0:10": {
-					"claimed:1": 1,
-					"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774",
-					"timestamp:4": 1742091010058
-				}
-			},
+			"completed:9": {},
 			"questIDLow:4": 1612,
 			"tasks:9": {
 				"0:10": {
@@ -41987,19 +41983,8 @@
 					"taskID:8": "bq_standard:retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {
-						"0:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
-					},
-					"userProgress:9": {
-						"0:10": {
-							"data:11": [
-								64,
-								32,
-								32
-							],
-							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
-						}
-					},
+					"completeUsers:9": {},
+					"userProgress:9": {},
 					"index:3": 1,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -42073,7 +42058,7 @@
 								0,
 								1,
 								1,
-								0,
+								1,
 								1
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
@@ -46300,7 +46285,7 @@
 								0,
 								0,
 								1,
-								0
+								1
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
 						}
@@ -59385,12 +59370,14 @@
 			"questIDLow:4": 1599,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								1,
-								0,
+								9,
 								1
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
@@ -68732,7 +68719,7 @@
 								0,
 								1,
 								1,
-								0,
+								1,
 								1
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
@@ -72356,7 +72343,7 @@
 						"0:10": {
 							"data:11": [
 								6,
-								0
+								2
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
 						}
@@ -73393,7 +73380,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								2,
 								12
 							],
 							"uuid:8": "30e76db5-537c-3aea-96cc-16ed797fd774"
