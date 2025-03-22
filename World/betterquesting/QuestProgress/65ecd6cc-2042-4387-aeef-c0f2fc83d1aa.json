@@ -6662,7 +6662,7 @@
 								1,
 								1,
 								2,
-								0
+								2
 							],
 							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
 						}
@@ -26093,14 +26093,7 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {
-						"0:10": {
-							"data:11": [
-								0
-							],
-							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
-						}
-					},
+					"userProgress:9": {},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -29721,7 +29714,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa",
-							"value:3": 3
+							"value:3": 7
 						}
 					},
 					"index:3": 0,
@@ -33084,15 +33077,7 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {
-						"0:10": {
-							"data:11": [
-								0,
-								10
-							],
-							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
-						}
-					},
+					"userProgress:9": {},
 					"index:3": 0,
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
@@ -33283,7 +33268,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa",
-							"value:3": 147
+							"value:3": 146
 						}
 					},
 					"index:3": 0,
@@ -50997,8 +50982,17 @@
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
+						}
+					},
 					"index:3": 1,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -62335,7 +62329,7 @@
 						"0:10": {
 							"data:11": [
 								0,
-								1
+								0
 							],
 							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
 						}
@@ -67509,7 +67503,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								12
+								0
 							],
 							"uuid:8": "65ecd6cc-2042-4387-aeef-c0f2fc83d1aa"
 						}
